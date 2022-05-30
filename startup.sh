@@ -10,7 +10,7 @@ sudo apt install git;
 echo "git installed."
 
 
-echo "Installing vs-code...."
+echo "Installing vs-code....."
 sudo apt update;
 sudo apt upgrade -y;
 sudo apt install software-properties-common apt-transport-https wget;
