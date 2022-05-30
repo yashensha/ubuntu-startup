@@ -8,6 +8,6 @@ git add .;
 echo "commiting changes....."
 git commit -m "$now";
 echo "pushing to git repo...."
-git push -u origin master;
+git push;
 
 
