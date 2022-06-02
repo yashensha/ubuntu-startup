@@ -1,7 +1,4 @@
 #!/bin/bash
-$token = "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"
-echo $token
-
 now=$(date +"%d-%m-%Y-%S")
 echo "checking repo status...."
 git status;
