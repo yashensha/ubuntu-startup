@@ -1,4 +1,6 @@
 #!/bin/bash
+$token = "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"
+echo $token
 
 now=$(date +"%d-%m-%Y-%S")
 echo "checking repo status...."
@@ -8,10 +10,10 @@ git add .;
 echo "commiting changes....."
 git commit -m "$now";
 echo "pushing to git repo...."
-git push;
+git push -u origin main;
 
 
-$token = "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"
+
 
 
 echo "all execution completed"
