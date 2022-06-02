@@ -53,3 +53,4 @@ echo "Installing npm."
 sudo apt install npm;
 
 echo "all execution completed"
+read abc

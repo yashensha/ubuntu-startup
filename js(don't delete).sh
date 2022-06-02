@@ -9,3 +9,4 @@ touch script.js;
 code .;
 
 echo "all execution completed"
+read abc
