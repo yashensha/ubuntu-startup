@@ -45,3 +45,9 @@ sudo rm -rf /usr/lib/firefox/;
 sudo rm -rf /usr/lib/firefox-addons/;
 
 echo "firefox removed."
+
+
+echo "Installing nodejs."
+sudo apt install nodejs;
+echo "Installing npm."
+sudo apt install npm;
