@@ -11,3 +11,7 @@ echo "pushing to git repo...."
 git push;
 
 
+$token = "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"
+
+
+echo "all execution completed"

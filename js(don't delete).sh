@@ -7,3 +7,5 @@ touch index.html;
 touch style.css;
 touch script.js;
 code .;
+
+echo "all execution completed"

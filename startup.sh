@@ -51,3 +51,5 @@ echo "Installing nodejs."
 sudo apt install nodejs;
 echo "Installing npm."
 sudo apt install npm;
+
+echo "all execution completed"
