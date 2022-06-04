@@ -14,4 +14,5 @@ git push -u origin main;
 
 
 echo "all execution completed"
+echo "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"
 read abc
